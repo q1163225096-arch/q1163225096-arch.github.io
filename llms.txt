@@ -1,0 +1,30 @@
+# Lighter Parts & Automation Equipment
+
+> Technical platform and supplier for lighter components, plastic mold systems, and automated production equipment. We publish exploded component diagrams, raw-material supply data, mold galleries, injection-machine matching matrices, and step-by-step production-process documentation for electronic, flint-wheel, windproof, flint-head, and lamp lighters. Supplier based in China.
+
+## English pages (primary)
+
+- [Home / Index](https://q1163225096-arch.github.io/lighterparts/en-index.html): Component diagrams, raw materials, mold systems, injection-machine matrix, and production-process overview.
+- [Exploded Component Diagrams](https://q1163225096-arch.github.io/lighterparts/en-exploded-details.html): Electronic, flint-wheel, windproof, flint-head, and lamp lighter exploded views with part callouts.
+- [Lighter Catalog](https://q1163225096-arch.github.io/lighterparts/en-more-lighters.html): Full product catalog images of lighter styles and variants.
+- [Mold Systems](https://q1163225096-arch.github.io/lighterparts/en-more-molds.html): Plastic mold galleries by type — electronic, windproof, flint-wheel, and lamp lighter molds.
+- [Production Process](https://q1163225096-arch.github.io/lighterparts/en-production-details.html): Manufacturing workflow — injection, tray loading, welding, face-valve, gas filling, flame adjustment, press-plate, inspection, color-sorting and labeling.
+- [Contact & Get a Quote](https://q1163225096-arch.github.io/lighterparts/en-contact.html): Request component quotes, mold development, and automated production equipment. WhatsApp/WeChat: 15675907557 · Email: 1163225096@qq.com.
+
+## Products & topics
+
+- Lighter component categories: electronic lighter parts, flint-wheel lighter parts, windproof lighter parts, flint-head lighter parts, lamp (kerosene) lighter parts.
+- Raw materials: component names, weights, minimum order quantities (MOQ), reference pricing, and notes.
+- Plastic injection molds: electronic / flint-wheel / windproof / lamp lighter mold images and specifications.
+- Injection-machine compatibility matrix and lighter automation production equipment references.
+
+## Contact
+
+- WhatsApp / WeChat: 15675907557
+- Email: 1163225096@qq.com
+- Location: China
+
+## Languages
+
+- This English file is the primary entry point for international / AI discovery.
+- 中文版 (Chinese version): https://q1163225096-arch.github.io/lighterparts/llms-zh.txt
